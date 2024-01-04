@@ -14,7 +14,7 @@ A React Task Management App which performs all the CRUD operations.
 ## Getting Started
 1. Clone this repository to your local machine
 ```bash
-git clone 
+git clone https://github.com/sayleephadte/To-Do.git
 ```
 2. Navigate to the project directory
 ```bash
